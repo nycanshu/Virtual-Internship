@@ -1,3 +1,8 @@
+/** Q8. Write a Java program that prompts the user to enter a number between 1 and 7 (inclusive).
+The program should then use a switch case statement to determine and display the corresponding day of the week based on the input number.
+Ensure that the program handles both valid input (1 to 7) and invalid input (numbers outside the range). Provide appropriate messages for both cases.**/
+
+
 import java.util.Scanner;
 public class question8{
 
